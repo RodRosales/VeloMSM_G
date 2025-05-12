@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Silver&#039;s Pass Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Silver&#039;s Pass
+</name>
+<trkseg>
+<trkpt lat="45.94684" lon="-75.87709">
+<ele>191.063</ele>
+<time>2025-05-11T20:11:04-07:00</time>
+</trkpt>
+<trkpt lat="45.94679" lon="-75.87704">
+<ele>192.164</ele>
+<time>2025-05-11T20:11:05-07:00</time>
+</trkpt>
+<trkpt lat="45.94675" lon="-75.87706">
+<ele>192.047</ele>
+<time>2025-05-11T20:11:06-07:00</time>
+</trkpt>
+<trkpt lat="45.9467" lon="-75.87705">
+<ele>192.575</ele>
+<time>2025-05-11T20:11:07-07:00</time>
+</trkpt>
+<trkpt lat="45.94669" lon="-75.87698">
+<ele>193.853</ele>
+<time>2025-05-11T20:11:08-07:00</time>
+</trkpt>
+<trkpt lat="45.94674" lon="-75.87695">
+<ele>194.028</ele>
+<time>2025-05-11T20:11:09-07:00</time>
+</trkpt>
+<trkpt lat="45.94695" lon="-75.87689">
+<ele>194.237</ele>
+<time>2025-05-11T20:11:10-07:00</time>
+</trkpt>
+<trkpt lat="45.947" lon="-75.87684">
+<ele>195.11</ele>
+<time>2025-05-11T20:11:11-07:00</time>
+</trkpt>
+<trkpt lat="45.94701" lon="-75.87677">
+<ele>196.334</ele>
+<time>2025-05-11T20:11:12-07:00</time>
+</trkpt>
+<trkpt lat="45.94695" lon="-75.87674">
+<ele>196.858</ele>
+<time>2025-05-11T20:11:13-07:00</time>
+</trkpt>
+<trkpt lat="45.94691" lon="-75.87674">
+<ele>196.858</ele>
+<time>2025-05-11T20:11:14-07:00</time>
+</trkpt>
+<trkpt lat="45.94691" lon="-75.87667">
+<ele>197.775</ele>
+<time>2025-05-11T20:11:15-07:00</time>
+</trkpt>
+<trkpt lat="45.94696" lon="-75.87668">
+<ele>197.738</ele>
+<time>2025-05-11T20:11:16-07:00</time>
+</trkpt>
+<trkpt lat="45.94699" lon="-75.87661">
+<ele>198.858</ele>
+<time>2025-05-11T20:11:17-07:00</time>
+</trkpt>
+<trkpt lat="45.94693" lon="-75.87648">
+<ele>199.734</ele>
+<time>2025-05-11T20:11:18-07:00</time>
+</trkpt>
+<trkpt lat="45.9469" lon="-75.87657">
+<ele>198.973</ele>
+<time>2025-05-11T20:11:19-07:00</time>
+</trkpt>
+<trkpt lat="45.94687" lon="-75.87658">
+<ele>198.769</ele>
+<time>2025-05-11T20:11:20-07:00</time>
+</trkpt>
+<trkpt lat="45.94685" lon="-75.87656">
+<ele>199.001</ele>
+<time>2025-05-11T20:11:21-07:00</time>
+</trkpt>
+<trkpt lat="45.94686" lon="-75.87643">
+<ele>199.652</ele>
+<time>2025-05-11T20:11:22-07:00</time>
+</trkpt>
+<trkpt lat="45.94689" lon="-75.87637">
+<ele>200.034</ele>
+<time>2025-05-11T20:11:23-07:00</time>
+</trkpt>
+<trkpt lat="45.94697" lon="-75.87643">
+<ele>200.259</ele>
+<time>2025-05-11T20:11:24-07:00</time>
+</trkpt>
+<trkpt lat="45.94706" lon="-75.87643">
+<ele>200.728</ele>
+<time>2025-05-11T20:11:25-07:00</time>
+</trkpt>
+<trkpt lat="45.94715" lon="-75.87636">
+<ele>200.451</ele>
+<time>2025-05-11T20:11:26-07:00</time>
+</trkpt>
+<trkpt lat="45.94722" lon="-75.87624">
+<ele>200.044</ele>
+<time>2025-05-11T20:11:27-07:00</time>
+</trkpt>
+<trkpt lat="45.94728" lon="-75.87597">
+<ele>201.436</ele>
+<time>2025-05-11T20:11:28-07:00</time>
+</trkpt>
+<trkpt lat="45.94724" lon="-75.87594">
+<ele>202.108</ele>
+<time>2025-05-11T20:11:29-07:00</time>
+</trkpt>
+<trkpt lat="45.94721" lon="-75.876">
+<ele>201.602</ele>
+<time>2025-05-11T20:11:30-07:00</time>
+</trkpt>
+<trkpt lat="45.94712" lon="-75.876">
+<ele>201.988</ele>
+<time>2025-05-11T20:11:31-07:00</time>
+</trkpt>
+<trkpt lat="45.94712" lon="-75.87614">
+<ele>201.074</ele>
+<time>2025-05-11T20:11:32-07:00</time>
+</trkpt>
+<trkpt lat="45.94707" lon="-75.87616">
+<ele>201.249</ele>
+<time>2025-05-11T20:11:33-07:00</time>
+</trkpt>
+<trkpt lat="45.947" lon="-75.87614">
+<ele>201.123</ele>
+<time>2025-05-11T20:11:34-07:00</time>
+</trkpt>
+<trkpt lat="45.94709" lon="-75.87594">
+<ele>202.536</ele>
+<time>2025-05-11T20:11:35-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

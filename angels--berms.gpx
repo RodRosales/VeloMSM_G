@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Angels&#039; Berms Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Angels&#039; Berms
+</name>
+<trkseg>
+<trkpt lat="45.94365" lon="-75.88735">
+<ele>179.3</ele>
+<time>2025-05-11T20:06:37-07:00</time>
+</trkpt>
+<trkpt lat="45.94372" lon="-75.88755">
+<ele>179.4</ele>
+<time>2025-05-11T20:06:38-07:00</time>
+</trkpt>
+<trkpt lat="45.94366" lon="-75.88767">
+<ele>179.4</ele>
+<time>2025-05-11T20:06:39-07:00</time>
+</trkpt>
+<trkpt lat="45.94367" lon="-75.8878">
+<ele>176.9</ele>
+<time>2025-05-11T20:06:40-07:00</time>
+</trkpt>
+<trkpt lat="45.94373" lon="-75.88789">
+<ele>176.9</ele>
+<time>2025-05-11T20:06:41-07:00</time>
+</trkpt>
+<trkpt lat="45.94366" lon="-75.88804">
+<ele>176.9</ele>
+<time>2025-05-11T20:06:42-07:00</time>
+</trkpt>
+<trkpt lat="45.9437" lon="-75.88808">
+<ele>172.8</ele>
+<time>2025-05-11T20:06:43-07:00</time>
+</trkpt>
+<trkpt lat="45.94376" lon="-75.8881">
+<ele>172.8</ele>
+<time>2025-05-11T20:06:44-07:00</time>
+</trkpt>
+<trkpt lat="45.94381" lon="-75.88815">
+<ele>172.8</ele>
+<time>2025-05-11T20:06:45-07:00</time>
+</trkpt>
+<trkpt lat="45.94391" lon="-75.88833">
+<ele>167.2</ele>
+<time>2025-05-11T20:06:46-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

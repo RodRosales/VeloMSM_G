@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Thunderbird Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Thunderbird
+</name>
+<trkseg>
+<trkpt lat="45.94908" lon="-75.86492">
+<ele>224</ele>
+<time>2025-05-11T20:11:30-07:00</time>
+</trkpt>
+<trkpt lat="45.94902" lon="-75.86473">
+<ele>226.9</ele>
+<time>2025-05-11T20:11:31-07:00</time>
+</trkpt>
+<trkpt lat="45.9491" lon="-75.86461">
+<ele>227.4</ele>
+<time>2025-05-11T20:11:32-07:00</time>
+</trkpt>
+<trkpt lat="45.94916" lon="-75.8646">
+<ele>227</ele>
+<time>2025-05-11T20:11:33-07:00</time>
+</trkpt>
+<trkpt lat="45.9492" lon="-75.86453">
+<ele>227.7</ele>
+<time>2025-05-11T20:11:34-07:00</time>
+</trkpt>
+<trkpt lat="45.94924" lon="-75.86457">
+<ele>226.9</ele>
+<time>2025-05-11T20:11:35-07:00</time>
+</trkpt>
+<trkpt lat="45.94924" lon="-75.86464">
+<ele>225.7</ele>
+<time>2025-05-11T20:11:36-07:00</time>
+</trkpt>
+<trkpt lat="45.94931" lon="-75.86464">
+<ele>224.9</ele>
+<time>2025-05-11T20:11:37-07:00</time>
+</trkpt>
+<trkpt lat="45.94936" lon="-75.86457">
+<ele>225.6</ele>
+<time>2025-05-11T20:11:38-07:00</time>
+</trkpt>
+<trkpt lat="45.94942" lon="-75.86457">
+<ele>224.9</ele>
+<time>2025-05-11T20:11:39-07:00</time>
+</trkpt>
+<trkpt lat="45.9495" lon="-75.86474">
+<ele>221.4</ele>
+<time>2025-05-11T20:11:40-07:00</time>
+</trkpt>
+<trkpt lat="45.9497" lon="-75.86495">
+<ele>215.9</ele>
+<time>2025-05-11T20:11:41-07:00</time>
+</trkpt>
+<trkpt lat="45.94994" lon="-75.86482">
+<ele>218</ele>
+<time>2025-05-11T20:11:42-07:00</time>
+</trkpt>
+<trkpt lat="45.95018" lon="-75.8648">
+<ele>217.3</ele>
+<time>2025-05-11T20:11:43-07:00</time>
+</trkpt>
+<trkpt lat="45.9503" lon="-75.86487">
+<ele>214.5</ele>
+<time>2025-05-11T20:11:44-07:00</time>
+</trkpt>
+<trkpt lat="45.95035" lon="-75.86492">
+<ele>212.9</ele>
+<time>2025-05-11T20:11:45-07:00</time>
+</trkpt>
+<trkpt lat="45.9505" lon="-75.86498">
+<ele>210.7</ele>
+<time>2025-05-11T20:11:46-07:00</time>
+</trkpt>
+<trkpt lat="45.95054" lon="-75.86498">
+<ele>210.6</ele>
+<time>2025-05-11T20:11:47-07:00</time>
+</trkpt>
+<trkpt lat="45.95069" lon="-75.8651">
+<ele>206.9</ele>
+<time>2025-05-11T20:11:48-07:00</time>
+</trkpt>
+<trkpt lat="45.95071" lon="-75.86514">
+<ele>205.9</ele>
+<time>2025-05-11T20:11:49-07:00</time>
+</trkpt>
+<trkpt lat="45.95027" lon="-75.865">
+<ele>210.3</ele>
+<time>2025-05-11T20:11:50-07:00</time>
+</trkpt>
+<trkpt lat="45.95012" lon="-75.86513">
+<ele>207.1</ele>
+<time>2025-05-11T20:11:51-07:00</time>
+</trkpt>
+<trkpt lat="45.95006" lon="-75.86514">
+<ele>207.5</ele>
+<time>2025-05-11T20:11:52-07:00</time>
+</trkpt>
+<trkpt lat="45.95004" lon="-75.86525">
+<ele>204.7</ele>
+<time>2025-05-11T20:11:53-07:00</time>
+</trkpt>
+<trkpt lat="45.94989" lon="-75.86523">
+<ele>206.9</ele>
+<time>2025-05-11T20:11:54-07:00</time>
+</trkpt>
+<trkpt lat="45.94972" lon="-75.86529">
+<ele>207.9</ele>
+<time>2025-05-11T20:11:55-07:00</time>
+</trkpt>
+<trkpt lat="45.94958" lon="-75.86524">
+<ele>211.5</ele>
+<time>2025-05-11T20:11:56-07:00</time>
+</trkpt>
+<trkpt lat="45.9495" lon="-75.86525">
+<ele>212.7</ele>
+<time>2025-05-11T20:11:57-07:00</time>
+</trkpt>
+<trkpt lat="45.94947" lon="-75.86527">
+<ele>212.9</ele>
+<time>2025-05-11T20:11:58-07:00</time>
+</trkpt>
+<trkpt lat="45.94943" lon="-75.8654">
+<ele>211.4</ele>
+<time>2025-05-11T20:11:59-07:00</time>
+</trkpt>
+<trkpt lat="45.94943" lon="-75.86547">
+<ele>209.8</ele>
+<time>2025-05-11T20:12:00-07:00</time>
+</trkpt>
+<trkpt lat="45.94954" lon="-75.86559">
+<ele>205.2</ele>
+<time>2025-05-11T20:12:01-07:00</time>
+</trkpt>
+<trkpt lat="45.94969" lon="-75.86567">
+<ele>201.8</ele>
+<time>2025-05-11T20:12:02-07:00</time>
+</trkpt>
+<trkpt lat="45.94981" lon="-75.86558">
+<ele>201.7</ele>
+<time>2025-05-11T20:12:03-07:00</time>
+</trkpt>
+<trkpt lat="45.95005" lon="-75.86554">
+<ele>199.9</ele>
+<time>2025-05-11T20:12:04-07:00</time>
+</trkpt>
+<trkpt lat="45.95008" lon="-75.86549">
+<ele>200.3</ele>
+<time>2025-05-11T20:12:05-07:00</time>
+</trkpt>
+<trkpt lat="45.95015" lon="-75.86543">
+<ele>200.7</ele>
+<time>2025-05-11T20:12:06-07:00</time>
+</trkpt>
+<trkpt lat="45.95037" lon="-75.86545">
+<ele>200.2</ele>
+<time>2025-05-11T20:12:07-07:00</time>
+</trkpt>
+<trkpt lat="45.95046" lon="-75.86547">
+<ele>199.7</ele>
+<time>2025-05-11T20:12:08-07:00</time>
+</trkpt>
+<trkpt lat="45.95066" lon="-75.86564">
+<ele>199.4</ele>
+<time>2025-05-11T20:12:09-07:00</time>
+</trkpt>
+<trkpt lat="45.95089" lon="-75.86564">
+<ele>200</ele>
+<time>2025-05-11T20:12:10-07:00</time>
+</trkpt>
+<trkpt lat="45.95094" lon="-75.86567">
+<ele>200</ele>
+<time>2025-05-11T20:12:11-07:00</time>
+</trkpt>
+<trkpt lat="45.95107" lon="-75.86578">
+<ele>200.3</ele>
+<time>2025-05-11T20:12:12-07:00</time>
+</trkpt>
+<trkpt lat="45.95112" lon="-75.86578">
+<ele>200.3</ele>
+<time>2025-05-11T20:12:13-07:00</time>
+</trkpt>
+<trkpt lat="45.9512" lon="-75.86583">
+<ele>201.4</ele>
+<time>2025-05-11T20:12:14-07:00</time>
+</trkpt>
+<trkpt lat="45.95126" lon="-75.86594">
+<ele>203.4</ele>
+<time>2025-05-11T20:12:15-07:00</time>
+</trkpt>
+<trkpt lat="45.95134" lon="-75.86585">
+<ele>203.3</ele>
+<time>2025-05-11T20:12:16-07:00</time>
+</trkpt>
+<trkpt lat="45.95142" lon="-75.86589">
+<ele>205.6</ele>
+<time>2025-05-11T20:12:17-07:00</time>
+</trkpt>
+<trkpt lat="45.95154" lon="-75.86586">
+<ele>207.9</ele>
+<time>2025-05-11T20:12:18-07:00</time>
+</trkpt>
+<trkpt lat="45.95161" lon="-75.86586">
+<ele>209.3</ele>
+<time>2025-05-11T20:12:19-07:00</time>
+</trkpt>
+<trkpt lat="45.95175" lon="-75.86594">
+<ele>212.9</ele>
+<time>2025-05-11T20:12:20-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

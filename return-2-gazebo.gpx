@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Return - 2 - Gazebo Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Return - 2 - Gazebo
+</name>
+<trkseg>
+<trkpt lat="45.94122" lon="-75.86075">
+<ele>456.6</ele>
+<time>2025-05-11T20:10:45-07:00</time>
+</trkpt>
+<trkpt lat="45.94105" lon="-75.86106">
+<ele>458.7</ele>
+<time>2025-05-11T20:10:46-07:00</time>
+</trkpt>
+<trkpt lat="45.94088" lon="-75.86121">
+<ele>459</ele>
+<time>2025-05-11T20:10:47-07:00</time>
+</trkpt>
+<trkpt lat="45.94074" lon="-75.86124">
+<ele>459</ele>
+<time>2025-05-11T20:10:48-07:00</time>
+</trkpt>
+<trkpt lat="45.94067" lon="-75.86121">
+<ele>459</ele>
+<time>2025-05-11T20:10:49-07:00</time>
+</trkpt>
+<trkpt lat="45.94055" lon="-75.86127">
+<ele>459</ele>
+<time>2025-05-11T20:10:50-07:00</time>
+</trkpt>
+<trkpt lat="45.94045" lon="-75.8613">
+<ele>458.5</ele>
+<time>2025-05-11T20:10:51-07:00</time>
+</trkpt>
+<trkpt lat="45.94027" lon="-75.8613">
+<ele>457.5</ele>
+<time>2025-05-11T20:10:52-07:00</time>
+</trkpt>
+<trkpt lat="45.94001" lon="-75.86122">
+<ele>456.3</ele>
+<time>2025-05-11T20:10:53-07:00</time>
+</trkpt>
+<trkpt lat="45.93987" lon="-75.86125">
+<ele>455.5</ele>
+<time>2025-05-11T20:10:54-07:00</time>
+</trkpt>
+<trkpt lat="45.93979" lon="-75.86133">
+<ele>454.4</ele>
+<time>2025-05-11T20:10:55-07:00</time>
+</trkpt>
+<trkpt lat="45.93921" lon="-75.86167">
+<ele>446.3</ele>
+<time>2025-05-11T20:10:56-07:00</time>
+</trkpt>
+<trkpt lat="45.93919" lon="-75.86171">
+<ele>445.8</ele>
+<time>2025-05-11T20:10:57-07:00</time>
+</trkpt>
+<trkpt lat="45.93916" lon="-75.86173">
+<ele>445.4</ele>
+<time>2025-05-11T20:10:58-07:00</time>
+</trkpt>
+<trkpt lat="45.93909" lon="-75.86174">
+<ele>444.7</ele>
+<time>2025-05-11T20:10:59-07:00</time>
+</trkpt>
+<trkpt lat="45.93897" lon="-75.86169">
+<ele>444</ele>
+<time>2025-05-11T20:11:00-07:00</time>
+</trkpt>
+<trkpt lat="45.93889" lon="-75.86169">
+<ele>443.1</ele>
+<time>2025-05-11T20:11:01-07:00</time>
+</trkpt>
+<trkpt lat="45.93877" lon="-75.86178">
+<ele>440.9</ele>
+<time>2025-05-11T20:11:02-07:00</time>
+</trkpt>
+<trkpt lat="45.93869" lon="-75.86182">
+<ele>440</ele>
+<time>2025-05-11T20:11:03-07:00</time>
+</trkpt>
+<trkpt lat="45.93862" lon="-75.86183">
+<ele>439.3</ele>
+<time>2025-05-11T20:11:04-07:00</time>
+</trkpt>
+<trkpt lat="45.93845" lon="-75.86191">
+<ele>436.5</ele>
+<time>2025-05-11T20:11:05-07:00</time>
+</trkpt>
+<trkpt lat="45.93823" lon="-75.86196">
+<ele>434.2</ele>
+<time>2025-05-11T20:11:06-07:00</time>
+</trkpt>
+<trkpt lat="45.93807" lon="-75.86205">
+<ele>431.4</ele>
+<time>2025-05-11T20:11:07-07:00</time>
+</trkpt>
+<trkpt lat="45.93799" lon="-75.86207">
+<ele>430.2</ele>
+<time>2025-05-11T20:11:08-07:00</time>
+</trkpt>
+<trkpt lat="45.93786" lon="-75.86215">
+<ele>427.8</ele>
+<time>2025-05-11T20:11:09-07:00</time>
+</trkpt>
+<trkpt lat="45.9377" lon="-75.8622">
+<ele>425.5</ele>
+<time>2025-05-11T20:11:10-07:00</time>
+</trkpt>
+<trkpt lat="45.93736" lon="-75.8622">
+<ele>421.8</ele>
+<time>2025-05-11T20:11:11-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

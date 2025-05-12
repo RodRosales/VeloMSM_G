@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Hotel Connection Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Hotel Connection
+</name>
+<trkseg>
+<trkpt lat="45.94865" lon="-75.87276">
+<ele>227.008544921875</ele>
+<time>2025-05-11T20:08:50-07:00</time>
+</trkpt>
+<trkpt lat="45.94843" lon="-75.87312">
+<ele>229.4117431640625</ele>
+<time>2025-05-11T20:08:51-07:00</time>
+</trkpt>
+<trkpt lat="45.94835" lon="-75.87336">
+<ele>224.12451171875</ele>
+<time>2025-05-11T20:08:52-07:00</time>
+</trkpt>
+<trkpt lat="45.94811" lon="-75.87369">
+<ele>221.72119140625</ele>
+<time>2025-05-11T20:08:53-07:00</time>
+</trkpt>
+<trkpt lat="45.94774" lon="-75.87409">
+<ele>227.008544921875</ele>
+<time>2025-05-11T20:08:54-07:00</time>
+</trkpt>
+<trkpt lat="45.94758" lon="-75.87441">
+<ele>224.12451171875</ele>
+<time>2025-05-11T20:08:55-07:00</time>
+</trkpt>
+<trkpt lat="45.94738" lon="-75.87464">
+<ele>225.0859375</ele>
+<time>2025-05-11T20:08:56-07:00</time>
+</trkpt>
+<trkpt lat="45.94719" lon="-75.87509">
+<ele>223.643798828125</ele>
+<time>2025-05-11T20:08:57-07:00</time>
+</trkpt>
+<trkpt lat="45.94714" lon="-75.87534">
+<ele>221.2406005859375</ele>
+<time>2025-05-11T20:08:58-07:00</time>
+</trkpt>
+<trkpt lat="45.94716" lon="-75.87582">
+<ele>220.7598876953125</ele>
+<time>2025-05-11T20:08:59-07:00</time>
+</trkpt>
+<trkpt lat="45.94709" lon="-75.87594">
+<ele>221.72119140625</ele>
+<time>2025-05-11T20:09:00-07:00</time>
+</trkpt>
+<trkpt lat="45.94709" lon="-75.87595">
+<ele>223.643798828125</ele>
+<time>2025-05-11T20:09:01-07:00</time>
+</trkpt>
+<trkpt lat="45.94702" lon="-75.87592">
+<ele>227.4891357421875</ele>
+<time>2025-05-11T20:09:02-07:00</time>
+</trkpt>
+<trkpt lat="45.94698" lon="-75.87536">
+<ele>229.892333984375</ele>
+<time>2025-05-11T20:09:03-07:00</time>
+</trkpt>
+<trkpt lat="45.94699" lon="-75.87493">
+<ele>226.047119140625</ele>
+<time>2025-05-11T20:09:04-07:00</time>
+</trkpt>
+<trkpt lat="45.94692" lon="-75.87433">
+<ele>226.047119140625</ele>
+<time>2025-05-11T20:09:05-07:00</time>
+</trkpt>
+<trkpt lat="45.94697" lon="-75.87414">
+<ele>229.4117431640625</ele>
+<time>2025-05-11T20:09:06-07:00</time>
+</trkpt>
+<trkpt lat="45.94689" lon="-75.87371">
+<ele>229.4117431640625</ele>
+<time>2025-05-11T20:09:07-07:00</time>
+</trkpt>
+<trkpt lat="45.94678" lon="-75.87366">
+<ele>227.008544921875</ele>
+<time>2025-05-11T20:09:08-07:00</time>
+</trkpt>
+<trkpt lat="45.94661" lon="-75.87349">
+<ele>227.008544921875</ele>
+<time>2025-05-11T20:09:09-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

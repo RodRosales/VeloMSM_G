@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Low Grove Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Low Grove
+</name>
+<trkseg>
+<trkpt lat="45.94555" lon="-75.88751">
+<ele>170.2</ele>
+<time>2025-05-11T20:09:13-07:00</time>
+</trkpt>
+<trkpt lat="45.94545" lon="-75.88743">
+<ele>173.2</ele>
+<time>2025-05-11T20:09:14-07:00</time>
+</trkpt>
+<trkpt lat="45.94531" lon="-75.88737">
+<ele>173.2</ele>
+<time>2025-05-11T20:09:15-07:00</time>
+</trkpt>
+<trkpt lat="45.94525" lon="-75.8873">
+<ele>167.7</ele>
+<time>2025-05-11T20:09:16-07:00</time>
+</trkpt>
+<trkpt lat="45.94525" lon="-75.88721">
+<ele>170.5</ele>
+<time>2025-05-11T20:09:17-07:00</time>
+</trkpt>
+<trkpt lat="45.94524" lon="-75.88695">
+<ele>170.5</ele>
+<time>2025-05-11T20:09:18-07:00</time>
+</trkpt>
+<trkpt lat="45.94518" lon="-75.8868">
+<ele>174.3</ele>
+<time>2025-05-11T20:09:19-07:00</time>
+</trkpt>
+<trkpt lat="45.94509" lon="-75.88669">
+<ele>174.3</ele>
+<time>2025-05-11T20:09:20-07:00</time>
+</trkpt>
+<trkpt lat="45.94497" lon="-75.88659">
+<ele>171.9</ele>
+<time>2025-05-11T20:09:21-07:00</time>
+</trkpt>
+<trkpt lat="45.94483" lon="-75.88646">
+<ele>171.9</ele>
+<time>2025-05-11T20:09:22-07:00</time>
+</trkpt>
+<trkpt lat="45.94467" lon="-75.88631">
+<ele>168.9</ele>
+<time>2025-05-11T20:09:23-07:00</time>
+</trkpt>
+<trkpt lat="45.94455" lon="-75.8861">
+<ele>172.4</ele>
+<time>2025-05-11T20:09:24-07:00</time>
+</trkpt>
+<trkpt lat="45.94435" lon="-75.88578">
+<ele>167.3</ele>
+<time>2025-05-11T20:09:25-07:00</time>
+</trkpt>
+<trkpt lat="45.94429" lon="-75.88567">
+<ele>167.3</ele>
+<time>2025-05-11T20:09:26-07:00</time>
+</trkpt>
+<trkpt lat="45.94435" lon="-75.88549">
+<ele>167.5</ele>
+<time>2025-05-11T20:09:27-07:00</time>
+</trkpt>
+<trkpt lat="45.94441" lon="-75.88538">
+<ele>167.5</ele>
+<time>2025-05-11T20:09:28-07:00</time>
+</trkpt>
+<trkpt lat="45.94456" lon="-75.88522">
+<ele>172.6</ele>
+<time>2025-05-11T20:09:29-07:00</time>
+</trkpt>
+<trkpt lat="45.9446" lon="-75.88515">
+<ele>172.6</ele>
+<time>2025-05-11T20:09:30-07:00</time>
+</trkpt>
+<trkpt lat="45.94462" lon="-75.88507">
+<ele>172.6</ele>
+<time>2025-05-11T20:09:31-07:00</time>
+</trkpt>
+<trkpt lat="45.94463" lon="-75.88499">
+<ele>171.3</ele>
+<time>2025-05-11T20:09:32-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

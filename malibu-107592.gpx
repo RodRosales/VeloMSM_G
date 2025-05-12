@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Malibu Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Malibu
+</name>
+<trkseg>
+<trkpt lat="45.94815" lon="-75.87503">
+<ele>194.364</ele>
+<time>2025-05-11T20:09:55-07:00</time>
+</trkpt>
+<trkpt lat="45.94823" lon="-75.87456">
+<ele>199.596</ele>
+<time>2025-05-11T20:09:56-07:00</time>
+</trkpt>
+<trkpt lat="45.94819" lon="-75.87458">
+<ele>200.178</ele>
+<time>2025-05-11T20:09:57-07:00</time>
+</trkpt>
+<trkpt lat="45.94818" lon="-75.87453">
+<ele>201.285</ele>
+<time>2025-05-11T20:09:58-07:00</time>
+</trkpt>
+<trkpt lat="45.94834" lon="-75.87414">
+<ele>202.99</ele>
+<time>2025-05-11T20:09:59-07:00</time>
+</trkpt>
+<trkpt lat="45.94849" lon="-75.87392">
+<ele>203.748</ele>
+<time>2025-05-11T20:10:00-07:00</time>
+</trkpt>
+<trkpt lat="45.94856" lon="-75.87389">
+<ele>202.408</ele>
+<time>2025-05-11T20:10:01-07:00</time>
+</trkpt>
+<trkpt lat="45.94867" lon="-75.87377">
+<ele>202.403</ele>
+<time>2025-05-11T20:10:02-07:00</time>
+</trkpt>
+<trkpt lat="45.94875" lon="-75.87364">
+<ele>203.559</ele>
+<time>2025-05-11T20:10:03-07:00</time>
+</trkpt>
+<trkpt lat="45.94876" lon="-75.87348">
+<ele>206.189</ele>
+<time>2025-05-11T20:10:04-07:00</time>
+</trkpt>
+<trkpt lat="45.94869" lon="-75.87362">
+<ele>205.366</ele>
+<time>2025-05-11T20:10:05-07:00</time>
+</trkpt>
+<trkpt lat="45.94861" lon="-75.87373">
+<ele>204.734</ele>
+<time>2025-05-11T20:10:06-07:00</time>
+</trkpt>
+<trkpt lat="45.94854" lon="-75.87382">
+<ele>204.622</ele>
+<time>2025-05-11T20:10:07-07:00</time>
+</trkpt>
+<trkpt lat="45.94848" lon="-75.87385">
+<ele>205.67</ele>
+<time>2025-05-11T20:10:08-07:00</time>
+</trkpt>
+<trkpt lat="45.94842" lon="-75.87395">
+<ele>204.855</ele>
+<time>2025-05-11T20:10:09-07:00</time>
+</trkpt>
+<trkpt lat="45.94822" lon="-75.87413">
+<ele>206.486</ele>
+<time>2025-05-11T20:10:10-07:00</time>
+</trkpt>
+<trkpt lat="45.94814" lon="-75.87427">
+<ele>206.27</ele>
+<time>2025-05-11T20:10:11-07:00</time>
+</trkpt>
+<trkpt lat="45.94808" lon="-75.8744">
+<ele>205.746</ele>
+<time>2025-05-11T20:10:12-07:00</time>
+</trkpt>
+<trkpt lat="45.94802" lon="-75.87447">
+<ele>206.27</ele>
+<time>2025-05-11T20:10:13-07:00</time>
+</trkpt>
+<trkpt lat="45.9478" lon="-75.87487">
+<ele>204.759</ele>
+<time>2025-05-11T20:10:14-07:00</time>
+</trkpt>
+<trkpt lat="45.94768" lon="-75.87498">
+<ele>205.897</ele>
+<time>2025-05-11T20:10:15-07:00</time>
+</trkpt>
+<trkpt lat="45.9476" lon="-75.8751">
+<ele>205.664</ele>
+<time>2025-05-11T20:10:16-07:00</time>
+</trkpt>
+<trkpt lat="45.94749" lon="-75.8755">
+<ele>203.115</ele>
+<time>2025-05-11T20:10:17-07:00</time>
+</trkpt>
+<trkpt lat="45.94748" lon="-75.87563">
+<ele>202.117</ele>
+<time>2025-05-11T20:10:18-07:00</time>
+</trkpt>
+<trkpt lat="45.94744" lon="-75.87573">
+<ele>201.895</ele>
+<time>2025-05-11T20:10:19-07:00</time>
+</trkpt>
+<trkpt lat="45.94742" lon="-75.87576">
+<ele>201.89</ele>
+<time>2025-05-11T20:10:20-07:00</time>
+</trkpt>
+<trkpt lat="45.94739" lon="-75.87575">
+<ele>202.394</ele>
+<time>2025-05-11T20:10:21-07:00</time>
+</trkpt>
+<trkpt lat="45.94733" lon="-75.87565">
+<ele>203.745</ele>
+<time>2025-05-11T20:10:22-07:00</time>
+</trkpt>
+<trkpt lat="45.9473" lon="-75.87564">
+<ele>204.055</ele>
+<time>2025-05-11T20:10:23-07:00</time>
+</trkpt>
+<trkpt lat="45.94728" lon="-75.87568">
+<ele>203.812</ele>
+<time>2025-05-11T20:10:24-07:00</time>
+</trkpt>
+<trkpt lat="45.94724" lon="-75.87594">
+<ele>201.996</ele>
+<time>2025-05-11T20:10:25-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Crossover Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Crossover
+</name>
+<trkseg>
+<trkpt lat="45.94661" lon="-75.87349">
+<ele>215.7</ele>
+<time>2025-05-11T20:07:11-07:00</time>
+</trkpt>
+<trkpt lat="45.94627" lon="-75.87337">
+<ele>210.3</ele>
+<time>2025-05-11T20:07:12-07:00</time>
+</trkpt>
+<trkpt lat="45.94602" lon="-75.87321">
+<ele>207</ele>
+<time>2025-05-11T20:07:13-07:00</time>
+</trkpt>
+<trkpt lat="45.94576" lon="-75.87317">
+<ele>206.3</ele>
+<time>2025-05-11T20:07:14-07:00</time>
+</trkpt>
+<trkpt lat="45.94556" lon="-75.87333">
+<ele>207.9</ele>
+<time>2025-05-11T20:07:15-07:00</time>
+</trkpt>
+<trkpt lat="45.94521" lon="-75.87377">
+<ele>211.8</ele>
+<time>2025-05-11T20:07:16-07:00</time>
+</trkpt>
+<trkpt lat="45.94504" lon="-75.87367">
+<ele>213.5</ele>
+<time>2025-05-11T20:07:17-07:00</time>
+</trkpt>
+<trkpt lat="45.9449" lon="-75.87369">
+<ele>215.7</ele>
+<time>2025-05-11T20:07:18-07:00</time>
+</trkpt>
+<trkpt lat="45.94473" lon="-75.87355">
+<ele>217.9</ele>
+<time>2025-05-11T20:07:19-07:00</time>
+</trkpt>
+<trkpt lat="45.94444" lon="-75.87257">
+<ele>213.7</ele>
+<time>2025-05-11T20:07:20-07:00</time>
+</trkpt>
+<trkpt lat="45.94412" lon="-75.87237">
+<ele>213.9</ele>
+<time>2025-05-11T20:07:21-07:00</time>
+</trkpt>
+<trkpt lat="45.94401" lon="-75.87204">
+<ele>206.3</ele>
+<time>2025-05-11T20:07:22-07:00</time>
+</trkpt>
+<trkpt lat="45.944" lon="-75.87201">
+<ele>206</ele>
+<time>2025-05-11T20:07:23-07:00</time>
+</trkpt>
+<trkpt lat="45.94399" lon="-75.87194">
+<ele>205.2</ele>
+<time>2025-05-11T20:07:24-07:00</time>
+</trkpt>
+<trkpt lat="45.94398" lon="-75.87175">
+<ele>207</ele>
+<time>2025-05-11T20:07:25-07:00</time>
+</trkpt>
+<trkpt lat="45.94397" lon="-75.87165">
+<ele>209.4</ele>
+<time>2025-05-11T20:07:26-07:00</time>
+</trkpt>
+<trkpt lat="45.94391" lon="-75.87134">
+<ele>215.6</ele>
+<time>2025-05-11T20:07:27-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

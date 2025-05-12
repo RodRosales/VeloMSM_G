@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Golf Course Connector 2 Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Golf Course Connector 2
+</name>
+<trkseg>
+<trkpt lat="45.94637" lon="-75.8888">
+<ele>164.9</ele>
+<time>2025-05-11T20:07:44-07:00</time>
+</trkpt>
+<trkpt lat="45.94615" lon="-75.88836">
+<ele>167.9</ele>
+<time>2025-05-11T20:07:45-07:00</time>
+</trkpt>
+<trkpt lat="45.946" lon="-75.88813">
+<ele>169.4</ele>
+<time>2025-05-11T20:07:46-07:00</time>
+</trkpt>
+<trkpt lat="45.94565" lon="-75.88762">
+<ele>174.6</ele>
+<time>2025-05-11T20:07:47-07:00</time>
+</trkpt>
+<trkpt lat="45.94555" lon="-75.88751">
+<ele>173.2</ele>
+<time>2025-05-11T20:07:48-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Bring Da ROCKus Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Bring Da ROCKus
+</name>
+<trkseg>
+<trkpt lat="45.95499" lon="-75.88564">
+<ele>300</ele>
+<time>2025-05-11T20:06:49-07:00</time>
+</trkpt>
+<trkpt lat="45.95502" lon="-75.88569">
+<ele>305.1</ele>
+<time>2025-05-11T20:06:50-07:00</time>
+</trkpt>
+<trkpt lat="45.95505" lon="-75.88573">
+<ele>305.1</ele>
+<time>2025-05-11T20:06:51-07:00</time>
+</trkpt>
+<trkpt lat="45.9551" lon="-75.88581">
+<ele>305.1</ele>
+<time>2025-05-11T20:06:52-07:00</time>
+</trkpt>
+<trkpt lat="45.95516" lon="-75.8859">
+<ele>298.6</ele>
+<time>2025-05-11T20:06:53-07:00</time>
+</trkpt>
+<trkpt lat="45.95519" lon="-75.88595">
+<ele>298.6</ele>
+<time>2025-05-11T20:06:54-07:00</time>
+</trkpt>
+<trkpt lat="45.95522" lon="-75.886">
+<ele>298.6</ele>
+<time>2025-05-11T20:06:55-07:00</time>
+</trkpt>
+<trkpt lat="45.95526" lon="-75.88606">
+<ele>298.6</ele>
+<time>2025-05-11T20:06:56-07:00</time>
+</trkpt>
+<trkpt lat="45.95528" lon="-75.88611">
+<ele>301.4</ele>
+<time>2025-05-11T20:06:57-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
