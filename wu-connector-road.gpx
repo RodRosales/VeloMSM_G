@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Wu Connector Road Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Wu Connector Road
+</name>
+<trkseg>
+<trkpt lat="45.9465" lon="-75.88764">
+<ele>175.2</ele>
+<time>2025-05-13T03:49:20-07:00</time>
+</trkpt>
+<trkpt lat="45.94647" lon="-75.88719">
+<ele>182.1</ele>
+<time>2025-05-13T03:49:21-07:00</time>
+</trkpt>
+<trkpt lat="45.94652" lon="-75.88698">
+<ele>182.1</ele>
+<time>2025-05-13T03:49:22-07:00</time>
+</trkpt>
+<trkpt lat="45.9466" lon="-75.88677">
+<ele>185.3</ele>
+<time>2025-05-13T03:49:23-07:00</time>
+</trkpt>
+<trkpt lat="45.94661" lon="-75.8866">
+<ele>186.7</ele>
+<time>2025-05-13T03:49:24-07:00</time>
+</trkpt>
+<trkpt lat="45.94658" lon="-75.88644">
+<ele>186.7</ele>
+<time>2025-05-13T03:49:25-07:00</time>
+</trkpt>
+<trkpt lat="45.94647" lon="-75.88622">
+<ele>188.3</ele>
+<time>2025-05-13T03:49:26-07:00</time>
+</trkpt>
+<trkpt lat="45.94645" lon="-75.88611">
+<ele>189</ele>
+<time>2025-05-13T03:49:27-07:00</time>
+</trkpt>
+<trkpt lat="45.94646" lon="-75.88606">
+<ele>189</ele>
+<time>2025-05-13T03:49:28-07:00</time>
+</trkpt>
+<trkpt lat="45.94635" lon="-75.88544">
+<ele>186.9</ele>
+<time>2025-05-13T03:49:29-07:00</time>
+</trkpt>
+<trkpt lat="45.94637" lon="-75.8851">
+<ele>185.5</ele>
+<time>2025-05-13T03:49:30-07:00</time>
+</trkpt>
+<trkpt lat="45.94648" lon="-75.88475">
+<ele>185.5</ele>
+<time>2025-05-13T03:49:31-07:00</time>
+</trkpt>
+<trkpt lat="45.94648" lon="-75.88456">
+<ele>185.3</ele>
+<time>2025-05-13T03:49:32-07:00</time>
+</trkpt>
+<trkpt lat="45.94642" lon="-75.88435">
+<ele>184.5</ele>
+<time>2025-05-13T03:49:33-07:00</time>
+</trkpt>
+<trkpt lat="45.94644" lon="-75.88409">
+<ele>184.3</ele>
+<time>2025-05-13T03:49:34-07:00</time>
+</trkpt>
+<trkpt lat="45.94651" lon="-75.88403">
+<ele>184.3</ele>
+<time>2025-05-13T03:49:35-07:00</time>
+</trkpt>
+<trkpt lat="45.94657" lon="-75.884">
+<ele>184.3</ele>
+<time>2025-05-13T03:49:36-07:00</time>
+</trkpt>
+<trkpt lat="45.94667" lon="-75.88399">
+<ele>186.3</ele>
+<time>2025-05-13T03:49:37-07:00</time>
+</trkpt>
+<trkpt lat="45.94698" lon="-75.88386">
+<ele>187.9</ele>
+<time>2025-05-13T03:49:38-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>St-Anton Connector Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+St-Anton Connector
+</name>
+<trkseg>
+<trkpt lat="45.94377" lon="-75.88262">
+<ele>179.9</ele>
+<time>2025-05-13T03:48:51-07:00</time>
+</trkpt>
+<trkpt lat="45.94359" lon="-75.88346">
+<ele>179.1</ele>
+<time>2025-05-13T03:48:52-07:00</time>
+</trkpt>
+<trkpt lat="45.94346" lon="-75.88376">
+<ele>179.1</ele>
+<time>2025-05-13T03:48:53-07:00</time>
+</trkpt>
+<trkpt lat="45.94339" lon="-75.88398">
+<ele>178.6</ele>
+<time>2025-05-13T03:48:54-07:00</time>
+</trkpt>
+<trkpt lat="45.94336" lon="-75.88412">
+<ele>178.6</ele>
+<time>2025-05-13T03:48:55-07:00</time>
+</trkpt>
+<trkpt lat="45.94332" lon="-75.88466">
+<ele>171.6</ele>
+<time>2025-05-13T03:48:56-07:00</time>
+</trkpt>
+<trkpt lat="45.94334" lon="-75.88484">
+<ele>167.6</ele>
+<time>2025-05-13T03:48:57-07:00</time>
+</trkpt>
+<trkpt lat="45.94331" lon="-75.88547">
+<ele>163.8</ele>
+<time>2025-05-13T03:48:58-07:00</time>
+</trkpt>
+<trkpt lat="45.94332" lon="-75.88589">
+<ele>167.8</ele>
+<time>2025-05-13T03:48:59-07:00</time>
+</trkpt>
+<trkpt lat="45.9433" lon="-75.88604">
+<ele>167.8</ele>
+<time>2025-05-13T03:49:00-07:00</time>
+</trkpt>
+<trkpt lat="45.94317" lon="-75.88631">
+<ele>174.8</ele>
+<time>2025-05-13T03:49:01-07:00</time>
+</trkpt>
+<trkpt lat="45.94309" lon="-75.8864">
+<ele>179.5</ele>
+<time>2025-05-13T03:49:02-07:00</time>
+</trkpt>
+<trkpt lat="45.94298" lon="-75.88644">
+<ele>177.7</ele>
+<time>2025-05-13T03:49:03-07:00</time>
+</trkpt>
+<trkpt lat="45.94292" lon="-75.88654">
+<ele>177.7</ele>
+<time>2025-05-13T03:49:04-07:00</time>
+</trkpt>
+<trkpt lat="45.94286" lon="-75.88671">
+<ele>179.7</ele>
+<time>2025-05-13T03:49:05-07:00</time>
+</trkpt>
+<trkpt lat="45.94273" lon="-75.88706">
+<ele>174.7</ele>
+<time>2025-05-13T03:49:06-07:00</time>
+</trkpt>
+<trkpt lat="45.94268" lon="-75.88732">
+<ele>176</ele>
+<time>2025-05-13T03:49:07-07:00</time>
+</trkpt>
+<trkpt lat="45.94266" lon="-75.88752">
+<ele>174.4</ele>
+<time>2025-05-13T03:49:08-07:00</time>
+</trkpt>
+<trkpt lat="45.94249" lon="-75.88767">
+<ele>168.4</ele>
+<time>2025-05-13T03:49:09-07:00</time>
+</trkpt>
+<trkpt lat="45.94239" lon="-75.88783">
+<ele>167.6</ele>
+<time>2025-05-13T03:49:10-07:00</time>
+</trkpt>
+<trkpt lat="45.94226" lon="-75.88799">
+<ele>167.6</ele>
+<time>2025-05-13T03:49:11-07:00</time>
+</trkpt>
+<trkpt lat="45.94213" lon="-75.88827">
+<ele>164.9</ele>
+<time>2025-05-13T03:49:12-07:00</time>
+</trkpt>
+<trkpt lat="45.94204" lon="-75.88847">
+<ele>164.2</ele>
+<time>2025-05-13T03:49:13-07:00</time>
+</trkpt>
+<trkpt lat="45.94187" lon="-75.88872">
+<ele>162.2</ele>
+<time>2025-05-13T03:49:14-07:00</time>
+</trkpt>
+<trkpt lat="45.94177" lon="-75.88927">
+<ele>160.5</ele>
+<time>2025-05-13T03:49:15-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
