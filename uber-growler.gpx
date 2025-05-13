@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Über Growler Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Über Growler
+</name>
+<trkseg>
+<trkpt lat="45.93483" lon="-75.85851">
+<ele>448.5</ele>
+<time>2025-05-13T03:38:40-07:00</time>
+</trkpt>
+<trkpt lat="45.93484" lon="-75.85861">
+<ele>448.5</ele>
+<time>2025-05-13T03:38:41-07:00</time>
+</trkpt>
+<trkpt lat="45.93484" lon="-75.85865">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:42-07:00</time>
+</trkpt>
+<trkpt lat="45.93483" lon="-75.85871">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:43-07:00</time>
+</trkpt>
+<trkpt lat="45.93482" lon="-75.85876">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:44-07:00</time>
+</trkpt>
+<trkpt lat="45.93481" lon="-75.8588">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:45-07:00</time>
+</trkpt>
+<trkpt lat="45.93479" lon="-75.85882">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:46-07:00</time>
+</trkpt>
+<trkpt lat="45.93477" lon="-75.85881">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:47-07:00</time>
+</trkpt>
+<trkpt lat="45.93476" lon="-75.85878">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:48-07:00</time>
+</trkpt>
+<trkpt lat="45.93475" lon="-75.85874">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:49-07:00</time>
+</trkpt>
+<trkpt lat="45.93474" lon="-75.85869">
+<ele>444.1</ele>
+<time>2025-05-13T03:38:50-07:00</time>
+</trkpt>
+<trkpt lat="45.93472" lon="-75.85868">
+<ele>438.9</ele>
+<time>2025-05-13T03:38:51-07:00</time>
+</trkpt>
+<trkpt lat="45.9347" lon="-75.85869">
+<ele>438.9</ele>
+<time>2025-05-13T03:38:52-07:00</time>
+</trkpt>
+<trkpt lat="45.93469" lon="-75.85873">
+<ele>438.9</ele>
+<time>2025-05-13T03:38:53-07:00</time>
+</trkpt>
+<trkpt lat="45.93469" lon="-75.85878">
+<ele>438.9</ele>
+<time>2025-05-13T03:38:54-07:00</time>
+</trkpt>
+<trkpt lat="45.9347" lon="-75.85886">
+<ele>438.9</ele>
+<time>2025-05-13T03:38:55-07:00</time>
+</trkpt>
+<trkpt lat="45.93471" lon="-75.85892">
+<ele>435.9</ele>
+<time>2025-05-13T03:38:56-07:00</time>
+</trkpt>
+<trkpt lat="45.93473" lon="-75.85897">
+<ele>441.1</ele>
+<time>2025-05-13T03:38:57-07:00</time>
+</trkpt>
+<trkpt lat="45.93474" lon="-75.85902">
+<ele>441.1</ele>
+<time>2025-05-13T03:38:58-07:00</time>
+</trkpt>
+<trkpt lat="45.93476" lon="-75.85908">
+<ele>441.1</ele>
+<time>2025-05-13T03:38:59-07:00</time>
+</trkpt>
+<trkpt lat="45.93477" lon="-75.85913">
+<ele>441.1</ele>
+<time>2025-05-13T03:39:00-07:00</time>
+</trkpt>
+<trkpt lat="45.93479" lon="-75.85921">
+<ele>437.4</ele>
+<time>2025-05-13T03:39:01-07:00</time>
+</trkpt>
+<trkpt lat="45.9348" lon="-75.85926">
+<ele>437.4</ele>
+<time>2025-05-13T03:39:02-07:00</time>
+</trkpt>
+<trkpt lat="45.9348" lon="-75.8593">
+<ele>437.4</ele>
+<time>2025-05-13T03:39:03-07:00</time>
+</trkpt>
+<trkpt lat="45.93478" lon="-75.85934">
+<ele>437.4</ele>
+<time>2025-05-13T03:39:04-07:00</time>
+</trkpt>
+<trkpt lat="45.93475" lon="-75.85936">
+<ele>437.4</ele>
+<time>2025-05-13T03:39:05-07:00</time>
+</trkpt>
+<trkpt lat="45.93472" lon="-75.85938">
+<ele>431.4</ele>
+<time>2025-05-13T03:39:06-07:00</time>
+</trkpt>
+<trkpt lat="45.93469" lon="-75.85939">
+<ele>431.4</ele>
+<time>2025-05-13T03:39:07-07:00</time>
+</trkpt>
+<trkpt lat="45.93467" lon="-75.85941">
+<ele>431.4</ele>
+<time>2025-05-13T03:39:08-07:00</time>
+</trkpt>
+<trkpt lat="45.93466" lon="-75.85944">
+<ele>431.4</ele>
+<time>2025-05-13T03:39:09-07:00</time>
+</trkpt>
+<trkpt lat="45.93467" lon="-75.85946">
+<ele>425.9</ele>
+<time>2025-05-13T03:39:10-07:00</time>
+</trkpt>
+<trkpt lat="45.93469" lon="-75.8595">
+<ele>425.9</ele>
+<time>2025-05-13T03:39:11-07:00</time>
+</trkpt>
+<trkpt lat="45.93471" lon="-75.85957">
+<ele>425.9</ele>
+<time>2025-05-13T03:39:12-07:00</time>
+</trkpt>
+<trkpt lat="45.93472" lon="-75.85962">
+<ele>425.9</ele>
+<time>2025-05-13T03:39:13-07:00</time>
+</trkpt>
+<trkpt lat="45.93473" lon="-75.85967">
+<ele>433</ele>
+<time>2025-05-13T03:39:14-07:00</time>
+</trkpt>
+<trkpt lat="45.93472" lon="-75.85971">
+<ele>425.9</ele>
+<time>2025-05-13T03:39:15-07:00</time>
+</trkpt>
+<trkpt lat="45.93473" lon="-75.85976">
+<ele>430</ele>
+<time>2025-05-13T03:39:16-07:00</time>
+</trkpt>
+<trkpt lat="45.93474" lon="-75.85981">
+<ele>430</ele>
+<time>2025-05-13T03:39:17-07:00</time>
+</trkpt>
+<trkpt lat="45.93476" lon="-75.8599">
+<ele>430</ele>
+<time>2025-05-13T03:39:18-07:00</time>
+</trkpt>
+<trkpt lat="45.93477" lon="-75.85995">
+<ele>430</ele>
+<time>2025-05-13T03:39:19-07:00</time>
+</trkpt>
+<trkpt lat="45.93477" lon="-75.86001">
+<ele>428.3</ele>
+<time>2025-05-13T03:39:20-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
