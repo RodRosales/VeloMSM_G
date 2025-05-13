@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Wu Connecter Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Wu Connecter
+</name>
+<trkseg>
+<trkpt lat="45.94622" lon="-75.88345">
+<ele>181.8</ele>
+<time>2025-05-13T03:43:39-07:00</time>
+</trkpt>
+<trkpt lat="45.9463" lon="-75.88347">
+<ele>181.8</ele>
+<time>2025-05-13T03:43:40-07:00</time>
+</trkpt>
+<trkpt lat="45.94636" lon="-75.88355">
+<ele>181.8</ele>
+<time>2025-05-13T03:43:41-07:00</time>
+</trkpt>
+<trkpt lat="45.94646" lon="-75.8836">
+<ele>184.4</ele>
+<time>2025-05-13T03:43:42-07:00</time>
+</trkpt>
+<trkpt lat="45.94649" lon="-75.88363">
+<ele>184.2</ele>
+<time>2025-05-13T03:43:43-07:00</time>
+</trkpt>
+<trkpt lat="45.9465" lon="-75.88372">
+<ele>184.2</ele>
+<time>2025-05-13T03:43:44-07:00</time>
+</trkpt>
+<trkpt lat="45.94653" lon="-75.88378">
+<ele>184.2</ele>
+<time>2025-05-13T03:43:45-07:00</time>
+</trkpt>
+<trkpt lat="45.94655" lon="-75.88386">
+<ele>184.2</ele>
+<time>2025-05-13T03:43:46-07:00</time>
+</trkpt>
+<trkpt lat="45.94656" lon="-75.88394">
+<ele>184.3</ele>
+<time>2025-05-13T03:43:47-07:00</time>
+</trkpt>
+<trkpt lat="45.94657" lon="-75.884">
+<ele>184.3</ele>
+<time>2025-05-13T03:43:48-07:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
